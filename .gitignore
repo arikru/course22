@@ -1,3 +1,9 @@
+*.csm_*
+*.jpg!d
+*.JPG
+*.jpeg
+*.png
+*.jpg
 bird.jpg
 forest.jpg
 .DS_Store
